@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/decentraland/dynamic-ui.git"
   },
-  "keywords": ["decentraland", "sdk7", "sdk 7", "sdk utils", "sdk library"],
+  "keywords": ["decentraland", "ui", "dynamic", "sdk7", "sdk 7", "sdk utils", "sdk library"],
   "author": "Decentraland",
   "license": "Apache-2.0",
   "bugs": {
